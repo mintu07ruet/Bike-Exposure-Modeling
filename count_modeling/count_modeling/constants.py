@@ -9,4 +9,4 @@ MODEL_DATA_PATH = f'{GCS_PATH}/model_data/{{version}}/{{part}}/{{table}}.parquet
 # For storing the results of model runs (model object, accuracy measures, etc.)
 MODEL_PATH = f'{GCS_PATH}/models/{{version}}.pkl'
 
-CURRENT_MODEL_DATA_VERSION = '2023-05-24T07:17:03.816654-07:00'
+CURRENT_MODEL_DATA_VERSION = '2023-05-25T06:22:48.356433-07:00'
